@@ -1,2 +1,2 @@
 # Alternative-Pruefungsleistung
-Rasberry-pi Anwendung, Temperatur-Uhrzeit Ausgabe auf externen Monitor
+Raspberry-pi Anwendung, Temperatur-Uhrzeit Ausgabe auf externen Monitor
